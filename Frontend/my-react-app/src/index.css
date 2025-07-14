@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f8f8f8;
+}
+
+.app-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 1rem;
+}
+
+.navbar {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.navbar a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #0077cc;
+}
